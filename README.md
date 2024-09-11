@@ -23,7 +23,3 @@ This repository contains a variety of demo files and projects designed for use i
 ## Contributing
 
 Feel free to contribute by adding more demo files or improving existing ones. Please follow the contribution guidelines.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
